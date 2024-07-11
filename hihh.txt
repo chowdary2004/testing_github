@@ -1,0 +1,6 @@
+PS C:\Desktop\Beginners> git add .
+PS C:\Desktop\Beginners> git commit -m "New index.html"
+[main 99d364d] New index.html
+ 1 file changed, 4 insertions(+)
+ create mode 100644 index.html
+PS C:\Desktop\Beginners> git push origin main
